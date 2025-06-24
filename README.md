@@ -25,7 +25,7 @@ Users should be able to:
 
 [Solution URL](https://www.frontendmentor.io/solutions/responsive-loopstudios-landing-page-using-flexbox-aj1VjdNjNl)
 
-[Live site URL](https://etfx1.github.io/FEM-loopstudios/)
+[Live site URL](https://ecc06.github.io/FEM-new-bento-grid/)
 
 ### Built with
 
